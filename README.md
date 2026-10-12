@@ -8,3 +8,5 @@ Visit `http://localhost/TFA4/public/` in your browser and sign in.
 
 - **Username:** `MKBadmin`
 - **Password:** `MKBadmin123!!`
+
+Also dont forget to copy sql file to phpmyadmin
